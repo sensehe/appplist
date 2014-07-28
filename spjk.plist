@@ -14,6 +14,17 @@
 					<string>http://mobile.houseguard.cn/APPdown/spjk.ipa</string>
 				</dict>
 			</array>
+			<key>CFBundleURLTypes</key>
+			<array>
+				<dict>
+					<key>CFBundleURLName</key>
+					<string>com.ikima.spjk</string>
+					<key>CFBundleURLSchemes</key>
+					<array>
+						<string>spjk</string>
+					</array>
+				</dict>
+			</array>			
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
